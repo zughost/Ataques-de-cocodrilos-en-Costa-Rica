@@ -4,7 +4,8 @@
 
 ### **Introducción**
 
-[*El pasado 13 de noviembre del 2022 murió un niño a causa de un cocodrilo en Matina, Limón*](https://www.eltiempo.com/mundo/latinoamerica/nino-de-8-anos-murio-tras-ser-devorado-por-un-cocodrilo-en-costa-rica-717276). A raíz de esta noticia se decidió investigar más sobre esta situación, ya que es normal que al año estos ataques frecuenten en los noticieros, sin embargo, la recolección de estos datos no es considerada lo suficientemente importante por el Sinac quien se encarga de este tipo de incidentes. el investigador Juan Bolaños actualmente este es el único que mantiene un registro de accidentes y muertes que hay en el país pues el Sinac no monitorea estos casos (Molina, 2019), los registros de Juan Bolaños tampoco se pudieron encontrar a lo largo de la investigación. 
+[*El pasado 13 de noviembre del 2022 murió un niño a causa de un cocodrilo en Matina, Limón*](https://www.eltiempo.com/mundo/latinoamerica/nino-de-8-anos-murio-tras-ser-devorado-por-un-cocodrilo-en-costa-rica-717276). A raíz de esta notici![Datos, 2005-2022](https://user-images.githubusercontent.com/129206442/232334995-cc4d483d-4a9b-48db-8a1b-b0ff7aafa596.jpg)
+a se decidió investigar más sobre esta situación, ya que es normal que al año estos ataques frecuenten en los noticieros, sin embargo, la recolección de estos datos no es considerada lo suficientemente importante por el Sinac quien se encarga de este tipo de incidentes. el investigador Juan Bolaños actualmente este es el único que mantiene un registro de accidentes y muertes que hay en el país pues el Sinac no monitorea estos casos (Molina, 2019), los registros de Juan Bolaños tampoco se pudieron encontrar a lo largo de la investigación. 
 
 ### **Justificación**
 
@@ -25,11 +26,12 @@ Reconocer las principales zonas de riesgo
 Primeramente se utilizó Costa Rica como área de investigación, para la recolecta de datos se instó a los noticieros nacionales, estos eran casi los únicos que brindaba información acerca de ataques de cocodrilo desde el año 2005 hasta el 2022. Krissya León afirma que entre el 2016 y 2017 se reportaron en total 48 casos (León, 2018) casi 50 casos de los cuales solo 11 fueron rastreables. 
 para la discretización de datos se optó por simplificar la agrupación de estos creando una tabla en excel con la información básica de cada caso: fecha, lugar, gravedad de ataque, nombre y edad esto con la finalidad de colocarlos en la tabla de atributos en qgis. 
 
-![*Datos de Ataques 2005-2022*](C:\Users\camii\OneDrive\Desktop\UCR\proce\Datos, 2005-2022.jpg) 
+
+![Datos, 2005-2022](https://user-images.githubusercontent.com/129206442/232335022-dfcb510e-d86f-4a77-ae1a-ebca9831f372.jpg)
 
 Por último para la composición del mapa se creó una capa en formato Geopackage con punto como tipo de geometría en el sistema de coordenadas CRTM05, con los atributos mencionados anteriormente, esta capa se colocaría encima de un mapa base de Googlemaps roads. Se procedió a buscar manualmente el lugar aproximado de cada caso con sus respectivas propiedades, para después crear un mapa de calor usando arcgis online.
 
-![](C:\Users\camii\OneDrive\Pictures\Screenshots\Captura de pantalla 2023-04-16 115907.png)
+![Captura de pantalla 2023-04-16 115907](https://user-images.githubusercontent.com/129206442/232335062-4af208e6-71bc-4d8b-88e2-a26dd73cf5fc.png)
  
 ### **Conclusiones**
 
@@ -68,6 +70,8 @@ En la [revista clínica de Céspedes Chávez](https://www.medigraphic.com/pdfs/r
 14. La Nacion. (2021a, julio 2). Rescataron cuerpo de niño muerto por cocodrilo en Cañas. La Nación. https://www.nacion.com/sucesos/rescataron-cuerpo-de-nino-muerto-por-cocodrilo-en-canas/GA6CAW27DVFKJMX36XRJMYPL3A/story/
 
 15. Céspedes Chavez, Navarro Coto & Ledezma Cabezas. (2018). TEMA 2016: Vacuna contra virus del Papiloma Humano: Análisis de esquemas de dos dosificaciones. Revista Clínica de la Escuela de Medicina UCR-HSJD, 8(6). https://www.medigraphic.com/pdfs/revcliescmed/ucr-2018/ucr186g.pdf
+
+
 
 
 
