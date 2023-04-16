@@ -4,8 +4,7 @@
 
 ### **Introducción**
 
-[*El pasado 13 de noviembre del 2022 murió un niño a causa de un cocodrilo en Matina, Limón*](https://www.eltiempo.com/mundo/latinoamerica/nino-de-8-anos-murio-tras-ser-devorado-por-un-cocodrilo-en-costa-rica-717276). A raíz de esta notici![Datos, 2005-2022](https://user-images.githubusercontent.com/129206442/232334995-cc4d483d-4a9b-48db-8a1b-b0ff7aafa596.jpg)
-a se decidió investigar más sobre esta situación, ya que es normal que al año estos ataques frecuenten en los noticieros, sin embargo, la recolección de estos datos no es considerada lo suficientemente importante por el Sinac quien se encarga de este tipo de incidentes. el investigador Juan Bolaños actualmente este es el único que mantiene un registro de accidentes y muertes que hay en el país pues el Sinac no monitorea estos casos (Molina, 2019), los registros de Juan Bolaños tampoco se pudieron encontrar a lo largo de la investigación. 
+[*El pasado 13 de noviembre del 2022 murió un niño a causa de un cocodrilo en Matina, Limón*](https://www.eltiempo.com/mundo/latinoamerica/nino-de-8-anos-murio-tras-ser-devorado-por-un-cocodrilo-en-costa-rica-717276). A raíz de esta noticia se decidió investigar más sobre esta situación, ya que es normal que al año estos ataques frecuenten en los noticieros, sin embargo, la recolección de estos datos no es considerada lo suficientemente importante por el Sinac quien se encarga de este tipo de incidentes. el investigador Juan Bolaños actualmente este es el único que mantiene un registro de accidentes y muertes que hay en el país pues el Sinac no monitorea estos casos (Molina, 2019), los registros de Juan Bolaños tampoco se pudieron encontrar a lo largo de la investigación. 
 
 ### **Justificación**
 
